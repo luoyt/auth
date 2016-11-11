@@ -1,0 +1,19 @@
+{
+  "name": "luoyt/auth",
+  "description": "thinkphp5 auth",
+  "require": {
+    "php": ">=5.4.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "luoyt",
+      "email": "501244162@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "luoyt\\auth\\": "src/"
+    }
+  }
+}
